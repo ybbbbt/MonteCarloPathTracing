@@ -1,0 +1,32 @@
+newmtl blinn2SG
+illum 4
+Kd 0.80 0.80 0.80
+#Ka 0.78 0.78 0.78
+Ke 50.000000 50.000000 50.000000
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.60 0.60 0.60
+newmtl lambert2SG
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+newmtl lambert3SG
+illum 4
+Kd 0.00 0.00 1.00
+Ka 0.00 0.00 0.00
+newmtl sphere_mirror
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Ks 1.00 1.00 1.00
+Ns 1000
+newmtl sphere_transparent
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Ks 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Tr 0.9
+Ni 1.5
+Ns 1000

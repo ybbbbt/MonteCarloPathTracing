@@ -1,0 +1,43 @@
+# vase 0
+newmtl lambert2SG
+illum 4
+Kd 0.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.80 0.80 0.80
+Ni 1.87
+Ks 0.86 0.86 0.86
+Ns 18.00
+# ground
+newmtl lambert3SG
+illum 4
+Kd 0.97 0.97 0.97
+Ka 0.00 0.00 0.00
+Tf 0.80 0.80 0.80
+Ni 1.00
+# back
+newmtl lambert4SG
+illum 4
+Kd 0.50 0.50 0.60
+Ka 0.10 0.20 0.30
+Tf 0.80 0.80 0.80
+Ni 1.00
+Ke 0.10 0.20 0.30
+# right two big vase
+newmtl phong1SG
+illum 4
+Kd 0.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.80 0.80 0.80
+Ni 1.87
+Ks 0.86 0.86 0.86
+Ns 18.00
+# small vase
+newmtl phong2SG
+illum 4
+Kd 1.00 0.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.80 0.80 0.80
+Ni 1.88
+Ks 1.00 1.00 1.00
+Ns 22.95
+

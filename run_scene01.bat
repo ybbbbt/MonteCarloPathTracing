@@ -1,0 +1,1 @@
+x64\Release\path_tracing.exe ./config/scene01.lua

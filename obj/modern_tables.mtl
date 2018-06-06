@@ -1,0 +1,48 @@
+# pillar in table
+newmtl aiStandardSurface1SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Ks 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ke 3.0 4.0 4.0
+Ni 1.50
+
+# table
+newmtl aiStandardSurface2SG
+illum 4
+Kd 0.70 0.60 0.50
+Ka 0.30 0.60 0.80
+Tf 0.70 0.60 0.50
+Ks 1.00 1.00 1.00
+#Ke 1.0 1.0 0.0
+Ni 1.80
+
+# ground
+newmtl aiStandardSurface4SG
+illum 4
+Kd 0.60 0.60 0.60
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+#Ke 0.0 0.0 1.0
+Ni 1.00
+
+
+# back
+newmtl aiStandardSurface5SG
+illum 4
+Kd 0.70 0.70 0.90
+Ka 0.30 0.30 0.40
+Tf 1.00 1.00 1.00
+Ke 0.3 0.3 0.3
+Ni 0.00
+
+# line light in ground
+newmtl aiStandardSurface6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 0.00
+Ke 1.5 2.0 4.0
+
